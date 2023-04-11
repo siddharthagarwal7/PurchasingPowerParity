@@ -1,1 +1,1 @@
-# Purchase Power Parity
+# ppp-calculator-howtoabroad
